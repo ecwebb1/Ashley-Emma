@@ -16,8 +16,6 @@
 	}
 	.jumbotron {
 		min-height: 60px;
-		background-image: url('images/fruit-and-veg.jpg');
 		background-size: cover;
 		background-attachment: fixed;
-
 	}
