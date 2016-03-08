@@ -14,5 +14,9 @@
 		background-color: #b62f26;
 		border-color: #b62f26;
 	}
-#btn-twitter #btn-lg
-img src="https://dub110.mail.live.com/Handlers/ImageProxy.mvc?bicild=&amp;canary=hOEB7zyaQrjqW6qNEXU8u6%2f9rSA7z1pSf7jfDgWEN7c%3d0&amp;url=http%3a%2f%2fmedia.sailthru.com%2f567%2f1k0%2f1%2fj%2f569e5d97ae795.png" data-pin-nopin="true"
+	.jumbotron {
+		min-height: 60px;
+		background-image: url('images/fruit-and-veg.jpg');
+		background-size: cover;
+		background-attachment: fixed;
+	}
