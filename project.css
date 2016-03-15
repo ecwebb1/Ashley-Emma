@@ -1,6 +1,15 @@
-	nav {color: pink;
+	.recipe
+	{padding-left: 10px
 	}
 
+	h1 {
+		color: pink;
+	}
+
+	form {
+		padding-left: 10px;
+	}
+	
 #social-buttons
 	 button {
 	 	color: white;
